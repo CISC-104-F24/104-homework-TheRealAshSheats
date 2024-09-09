@@ -11,6 +11,15 @@ public class NewBehaviourScript : MonoBehaviour
     void Start()
     {
         Debug.Log("Hello, world!");
+        Debug.LogWarning("Dont fall behind");
+        Debug.LogError("I mean It");
+        // I think he means it Author:Ash Sheats
+
+        /*
+        *
+        * He meant it 
+        * yup
+        */
     }
 
     // Update is called once per frame
